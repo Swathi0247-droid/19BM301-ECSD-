@@ -1,4 +1,4 @@
-# Experiment-1 DEMONSTRATE THE CHARACTERISTICS OF ZENER DIODE .
+# Experiment 1 - DEMONSTRATE THE CHARACTERISTICS OF ZENER DIODE .
 
 # AIM :
 To plot the V-I characteristics of Zener diode.
