@@ -1,4 +1,4 @@
-# Experiment-3 CHARACTERISTICS OF CB CONFIGURATION
+# Experiment 3 - CHARACTERISTICS OF CB CONFIGURATION
 
 # AIM : 
 To plot the input and output characteristics of the transistor in CB mode, to determine the h-parameters from the graph.
