@@ -1,4 +1,4 @@
-# Experiment-2 CHARACTERISTICS OF CE CONFIGURATION
+# Experiment 2 - CHARACTERISTICS OF CE CONFIGURATION
 
 # AIM :
 To Plot the input and output characteristics of the transistor in CE mode, to determine the h-parameters from the graph.
